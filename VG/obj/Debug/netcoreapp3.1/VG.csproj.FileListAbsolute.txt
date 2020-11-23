@@ -1,0 +1,13 @@
+C:\Users\alexg\source\repos\VG\VG\bin\Debug\netcoreapp3.1\VG.exe
+C:\Users\alexg\source\repos\VG\VG\bin\Debug\netcoreapp3.1\VG.deps.json
+C:\Users\alexg\source\repos\VG\VG\bin\Debug\netcoreapp3.1\VG.runtimeconfig.json
+C:\Users\alexg\source\repos\VG\VG\bin\Debug\netcoreapp3.1\VG.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\VG\VG\bin\Debug\netcoreapp3.1\VG.dll
+C:\Users\alexg\source\repos\VG\VG\bin\Debug\netcoreapp3.1\VG.pdb
+C:\Users\alexg\source\repos\VG\VG\obj\Debug\netcoreapp3.1\VG.csprojAssemblyReference.cache
+C:\Users\alexg\source\repos\VG\VG\obj\Debug\netcoreapp3.1\VG.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\VG\VG\obj\Debug\netcoreapp3.1\VG.AssemblyInfo.cs
+C:\Users\alexg\source\repos\VG\VG\obj\Debug\netcoreapp3.1\VG.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\VG\VG\obj\Debug\netcoreapp3.1\VG.dll
+C:\Users\alexg\source\repos\VG\VG\obj\Debug\netcoreapp3.1\VG.pdb
+C:\Users\alexg\source\repos\VG\VG\obj\Debug\netcoreapp3.1\VG.genruntimeconfig.cache
